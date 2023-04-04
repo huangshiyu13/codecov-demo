@@ -1,4 +1,6 @@
 class Calculator:
+    def test(x,y):
+	return x
     def add(x, y):
         return x + y
 
